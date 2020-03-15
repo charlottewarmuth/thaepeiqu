@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifaehahra.soft-eng.cz/sitemap.xml
